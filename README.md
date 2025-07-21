@@ -34,15 +34,15 @@
 ---
 
 # 📌 **Pinned Projects**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=priscillajospin&repo=Blind-Spectacles&theme=radical)](https://github.com/priscillajospin/Blind-Spectacles)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=priscillajospin&repo=Text-Summarizer&theme=radical)](https://github.com/priscillajospin/Text-Summarizer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=priscillajospin&repo=Payroll-Management&theme=radical)](https://github.com/priscillajospin/Payroll-Management)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PriscillajospinG&repo=Blind-Spectacles&theme=radical)](https://github.com/PriscillajospinG/Blind-Spectacles)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PriscillajospinG&repo=Text-Summarizer&theme=radical)](https://github.com/PriscillajospinG/Text-Summarizer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PriscillajospinG&repo=Payroll-Management&theme=radical)](https://github.com/PriscillajospinG/Payroll-Management)
 
 ---
 
 # 📊 **GitHub Stats**
 ![Priscilla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PriscillajospinG&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=PriscillaJospinG&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=priscillajospin&theme=radical&cache_seconds=60)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriscillajospinG&layout=compact&theme=radical)
 
 ---
