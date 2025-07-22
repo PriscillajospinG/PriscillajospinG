@@ -36,7 +36,7 @@
 
 # 📊 **GitHub Stats**
 ![Priscilla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PriscillajospinG&show_icons=true&theme=radical)
-
+![Github streak](https://github.com/denvercoder1/github-readme-streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriscillajospinG&layout=compact&theme=radical)
 
 ---
