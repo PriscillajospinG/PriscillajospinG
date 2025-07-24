@@ -1,4 +1,8 @@
-## Hi Priscilla here 👋
+<p align="center">
+  <b>But when that which is complete and perfect comes, that which is incomplete and partial will pass away.<br>
+  1 Corinthians 13:10</b>
+</p>
+---
 
 <!-- Typing SVG Banner -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Priscilla+Jospin+G;AI+%26+Data+Science+Student+at+Karunya+University;Machine+Learning+%7C+Full+Stack+Developer;Passionate+about+AI+%7C+Blockchain+%7C+Data+Science)](https://git.io/typing-svg)
