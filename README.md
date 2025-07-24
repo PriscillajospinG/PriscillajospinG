@@ -9,6 +9,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Priscilla+Jospin+G;AI+%26+Data+Science+Student+at+Karunya+University;Machine+Learning+%7C+Full+Stack+Developer;Passionate+about+AI+%7C+Blockchain+%7C+Data+Science)](https://git.io/typing-svg)
 
 ---
+<p align="center">
+  <a href="https://www.linkedin.com/in/priscilla-jospin-g-a52799295/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/PriscillajospinG" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://priscillaportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
+
+---
 
 # 👩‍💻 **About Me**
 - 🎓 **3rd Year B.Tech Student in AI & Data Science** at **Karunya University**.
