@@ -53,8 +53,9 @@
 
 
 # 📊 **GitHub Stats**
+<!-- GitHub Contribution Graph -->
+[![Priscilla's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PriscillajospinG&bg_color=ffffff&color=000000&line=ff69b4&point=ff1493&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Priscilla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PriscillajospinG&show_icons=true&theme=radical)
-![Github streak](https://github.com/denvercoder1/github-readme-streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriscillajospinG&layout=compact&theme=radical)
 
 ---
