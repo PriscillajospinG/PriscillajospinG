@@ -74,5 +74,6 @@
 # 📫 **Contact Me**
 - 📧 **Email:** *priscillajospin@gmail.com*
 - 🔗 **LinkedIn:** *https://www.linkedin.com/in/priscilla-jospin-g-a52799295/*  
+- 🔗 **Portfolio:** *https://priscilla-jospin.tech/*
 
 ---
