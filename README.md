@@ -1,125 +1,168 @@
-<p align="center">
-  <b>But when that which is complete and perfect comes, that which is incomplete and partial will pass away.<br>
-  1 Corinthians 13:10</b>
-</p>
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Priscilla%20Jospin%20G&fontSize=50&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Researcher&descAlignY=60"/>
 
-<hr>
+✝️
 
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF4B91&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Priscilla+Jospin+G;AI+%26+Data+Science+Engineer+in+Progress;LLMs+%7C+Machine+Learning+%7C+Full+Stack;Building+AI+Products+That+Solve+Real+Problems;Open+to+AI+%2F+ML+%2F+Software+Roles" />
-</p>
+“But when that which is complete and perfect comes, that which is incomplete and partial will pass away.”
+1 Corinthians 13:10
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PriscillajospinG&label=Profile%20Views&color=ff4b91&style=flat" />
-  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=flat" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=FF4B91&center=true&vCenter=true&random=false&width=900&lines=Hi+👋,+I'm+Priscilla+Jospin+G;AI+%26+Data+Science+Engineer;Building+AI+Products+for+Real+Problems;LLMs+%7C+Computer+Vision+%7C+Full+Stack;Researcher+%7C+Developer+%7C+Innovator;Always+Learning+Something+New+🚀"/>
+<br>
+<img src="https://komarev.com/ghpvc/?username=PriscillajospinG&label=Profile%20Views&color=ff4b91&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Opportunities-success?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/PriscillajospinG?style=for-the-badge&color=blue"/>
+</div>
 
----
+⸻
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/priscilla-jospin-g-a52799295/">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/PriscillajospinG">
-    <img src="https://img.shields.io/badge/GitHub-Projects-%23121011?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://priscillaportfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-%23000000?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212750547-2f0f6f4f-65f7-4c1b-9c7c-b7a0c6d9d6d5.gif" width="100%">
 
----
+🌸 About Me
 
-# 👩‍💻 About Me
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🎓 3rd Year **B.Tech – AI & Data Science**  
-🏫 Karunya University  
+🎓 B.Tech Artificial Intelligence & Data Science
 
-💡 I build intelligent systems using **LLMs, NLP, Machine Learning & Computer Vision**  
-🚀 Passionate about transforming real-world problems into scalable AI products  
-🏆 Special Mention Award – *Cyberthon 2025*  
-🏁 Smart India Hackathon 2025 Final Submission  
+🏫 Karunya Institute of Science and Technology
 
-🔍 Currently seeking **AI Engineer / ML Engineer / Software Developer roles**
+💡 Passionate about building intelligent systems using:
 
----
+* 🤖 Artificial Intelligence
+* 🧠 Large Language Models
+* 👁️ Computer Vision
+* 🔄 Agentic AI Systems
+* 🌐 Full Stack Development
 
-# 🔬 Current Focus
+🏆 Special Mention Award - Cyberthon 2025
 
-- Large Language Models (LLaMA, Prompt Engineering)
-- AI Agent Systems
-- Applied Machine Learning
-- Full Stack AI Product Development
-- Blockchain + AI integrations
+🚀 Currently working on:
 
----
+* 🏥 AI-Powered Physiotherapy Assessment System
+* 📄 Autonomous Research Paper Generation Platform
+* 🤖 Multi-Agent AI Ecosystems
+* 📚 AI Study Assistant Platforms
 
-# 🚀 Featured Projects
+⸻
 
-### 🤖 Cyber Laws Chatbot  
-AI-powered chatbot built using **LLaMA 7B + NLP pipeline** to answer Indian cyber law queries and promote cybersecurity awareness.
+⚡ Tech Arsenal
 
-### 👓 Blind Spectacles Assistance System  
-Computer Vision-based assistive system that detects objects and guides visually impaired individuals in real-time navigation.
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,tensorflow,pytorch,sklearn,opencv,fastapi,django,react,nextjs,nodejs,typescript,javascript,mongodb,postgres,docker,git,linux,tailwind,aws,vscode&perline=7"/>
+</div>
 
-### 📄 IEEE Paper Formatter  
-Automated generator that formats research papers into **IEEE-compliant structure** from structured user input.
+⸻
 
----
+<img src="https://user-images.githubusercontent.com/74038190/216656967-4b1cb4d4-f3d8-46b5-9bcb-2c64b4b4b3d5.gif" width="100%">
 
-# 🛠 Tech Stack
+🚀 Featured Projects
 
-## 💻 Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
+<table>
+<tr>
+<td width="50%">
 
-## 🧠 AI / ML
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-yellow?style=flat-square)
-![OpenAI](https://img.shields.io/badge/-LLMs-black?style=flat-square)
+🏥 Physio AI
 
-## 🌐 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+AI-powered rehabilitation assessment system using MediaPipe + CTR-GCN.
 
-## 🛠 Tools & Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+</td>
+<td width="50%">
 
----
+📄 AI Research Agent
 
-# 📊 GitHub Analytics
+Multi-agent ecosystem for automated research paper generation.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriscillajospinG&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriscillajospinG&layout=compact&theme=radical&hide_border=true" />
-</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PriscillajospinG&bg_color=0d1117&color=ff4b91&line=ff4b91&point=ffffff&area=true&hide_border=true" />
-</p>
+🌾 CropAI
 
----
+Crop recommendation and yield prediction platform.
 
-# ✨ Fun Zone
+</td>
+<td width="50%">
 
-> “Code is like humor. When you have to explain it, it’s bad.”
+📚 Mind Mentor
 
-⚡ Music + AI = My Coding Mode  
-☕ Coffee fuels my neural networks  
-💡 I love building AI systems that actually solve problems  
+AI-powered study assistant with RAG and smart planners.
 
----
+</td>
+</tr>
+</table>
 
-# 📫 Let’s Build Something Together
+⸻
 
-📧 priscillajospin@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/priscilla-jospin-g-a52799295/  
-🌐 Portfolio: https://priscillaportfolio.vercel.app/
+📊 GitHub Analytics
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PriscillajospinG&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriscillajospinG&layout=compact&theme=radical&hide_border=true"/>
+</div>
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=PriscillajospinG&theme=radical&hide_border=true"/>
+</div>
+
+⸻
+
+📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PriscillajospinG&theme=react-dark&hide_border=true&area=true"/>
+
+⸻
+
+🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=PriscillajospinG&theme=radical&no-frame=true&row=2&column=4"/>
+</div>
+
+⸻
+
+📌 Current Focus
+
+🧠 Deep Learning          ████████████████ 90%
+🤖 Agentic AI             ██████████████░░ 85%
+👁️ Computer Vision        ███████████████░ 88%
+🌐 Full Stack             ████████████░░░░ 75%
+📚 Research               ███████████████░ 88%
+
+⸻
+
+📊 Detailed Profile Summary
+
+<div align="center">
+</div>
+
+⸻
+
+🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/PriscillajospinG/PriscillajospinG/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+⸻
+
+🌐 Connect With Me
+
+<div align="center">
+<a href="https://www.linkedin.com/in/priscilla-jospin-g-a52799295/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:priscillajospin@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://priscillaportfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</div>
+
+⸻
+
+<div align="center">
+
+✨ Building Intelligent Systems That Create Real Impact ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</div>
