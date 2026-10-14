@@ -29,7 +29,7 @@
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 * 🎓 B.Tech AI & Data Science — Karunya Institute of Science and Technology
-* 💼 AI Engineer Intern @ Rapha MedTech
+* 💼 MAWM Trainee @ NCS Partners, Coimbatore
 * 🧠 Interested in LLMs, Agentic AI, Computer Vision, and Deep Learning
 * 🚀 Passionate about transforming research ideas into deployable AI products
 * 🌱 Currently exploring Enterprise AI Systems and AI for Healthcare
