@@ -1,7 +1,7 @@
 <a href="https://priscillaportfolio.vercel.app/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-    <img width="100%" alt="Model card — Priscilla Jospin G · AI Engineer · ML Researcher · Full Stack Developer · Research → Deployment. Ideas → Products." src="assets/hero-light.svg">
+    <img width="100%" alt="Priscilla Jospin G · AI Engineer · ML Researcher · Full Stack Developer · Research → Deployment. Ideas → Products." src="assets/hero-light.svg">
   </picture>
 </a>
 
@@ -11,36 +11,32 @@
   <a href="mailto:priscillajospin@gmail.com"><img alt="Open to opportunities" src="https://img.shields.io/badge/open%20to-opportunities-22c55e?style=flat-square"></a>
 </p>
 
-> [!NOTE]
-> This profile is written as a **model card**, the document ML teams publish to explain what a model is, how it was trained, what it can do, and where it is deployed. This one describes me.
-
 <br>
 
-## `01` Model details
+## `01` About
 
-| Field | Value |
+| Role | AI Engineer · ML Researcher · Full Stack Developer |
 | :-- | :-- |
-| **Architecture** | AI Engineer · ML Researcher · Full Stack Developer |
-| **Pre-training** | B.Tech AI & Data Science — Karunya Institute of Science and Technology |
-| **Current deployment** | MAWM Trainee @ NCS Partners, Coimbatore |
-| **Objective function** | Transforming research ideas into deployable AI products |
-| **Attention heads** | LLMs · Agentic AI · Computer Vision · Deep Learning |
-| **Currently fine-tuning on** | Enterprise AI Systems · AI for Healthcare |
+| **Education** | B.Tech AI & Data Science — Karunya Institute of Science and Technology |
+| **Currently** | MAWM Trainee @ NCS Partners, Coimbatore |
+| **Interests** | LLMs · Agentic AI · Computer Vision · Deep Learning |
+| **Driven by** | Transforming research ideas into deployable AI products |
+| **Exploring** | Enterprise AI Systems · AI for Healthcare |
 
 <br>
 
-## `02` Training history
+## `02` Experience
 
-| Release | Period | Role | Notes |
-| :-- | :-- | :-- | :-- |
-| **v2** | Aug 2026 → present | MAWM Trainee · **NCS Partners**, Coimbatore | Current role |
-| **v1** | May 2026 → Jul 2026 | AI Engineer Intern · **Rapha MedTech** | Built AI-powered healthcare applications |
+| Period | Role | Highlights |
+| :-- | :-- | :-- |
+| **Aug 2026 → Present** | MAWM Trainee · **NCS Partners**, Coimbatore | Current role |
+| **May 2026 → Jul 2026** | AI Engineer Intern · **Rapha MedTech** | Built AI-powered healthcare applications |
 
 <br>
 
-## `03` Capabilities
+## `03` Tech Stack
 
-| Layer | Stack |
+| Area | Tools |
 | :-- | :-- |
 | **Language** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,typescript,javascript&theme=dark"><img height="40" alt="Python, TypeScript, JavaScript" src="https://skillicons.dev/icons?i=python,typescript,javascript&theme=light"></picture> |
 | **Deep learning & vision** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark"><img height="40" alt="PyTorch, TensorFlow, scikit-learn, OpenCV" src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=light"></picture> |
@@ -52,7 +48,7 @@
 
 <br>
 
-## `04` Deployments
+## `04` Projects
 
 <a href="https://github.com/PriscillajospinG/PrivAI-Secure-Enterprise-AI-Assistant">
   <picture>
@@ -77,9 +73,9 @@
 
 <br><br>
 
-## `05` Evaluation
+## `05` Achievements & Activity
 
-| Benchmark | Result |
+| Event | Recognition |
 | :-- | :-- |
 | **Cyberthon 2025** | 🥇 Special Mention Award |
 | **Smart India Hackathon** | Participant |
@@ -104,7 +100,7 @@
 
 <br>
 
-## `06` Endpoints
+## `06` Connect
 
 <p>
   <a href="https://www.linkedin.com/in/priscilla-jospin-g-a52799295/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Priscilla%20Jospin%20G-7C3AED?style=flat-square&logo=linkedin&logoColor=white"></a>
