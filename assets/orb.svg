@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <radialGradient id="core">
+      <stop offset="0" stop-color="#c4b5fd"/>
+      <stop offset="0.5" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#7C3AED" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <circle cx="150" cy="150" r="145" fill="url(#halo)"/>
+
+  <!-- outer ring -->
+  <g>
+    <circle cx="150" cy="150" r="125" fill="none" stroke="#7C3AED" stroke-opacity="0.45" stroke-width="1.5" stroke-dasharray="2 10"/>
+    <circle cx="150" cy="25" r="5" fill="#c4b5fd"/>
+    <circle cx="275" cy="150" r="3.5" fill="#8b5cf6"/>
+    <animateTransform attributeName="transform" type="rotate" from="0 150 150" to="360 150 150" dur="24s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- middle ring (tilted orbit) -->
+  <g>
+    <ellipse cx="150" cy="150" rx="95" ry="38" fill="none" stroke="#8b5cf6" stroke-opacity="0.6" stroke-width="1.5"/>
+    <circle cx="245" cy="150" r="5" fill="#e6edf3"/>
+    <animateTransform attributeName="transform" type="rotate" from="0 150 150" to="-360 150 150" dur="14s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <ellipse cx="150" cy="150" rx="38" ry="95" fill="none" stroke="#8b5cf6" stroke-opacity="0.35" stroke-width="1.5"/>
+    <circle cx="150" cy="55" r="4" fill="#c4b5fd"/>
+    <animateTransform attributeName="transform" type="rotate" from="45 150 150" to="405 150 150" dur="18s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- inner ring -->
+  <circle cx="150" cy="150" r="58" fill="none" stroke="#7C3AED" stroke-width="2" stroke-dasharray="60 30">
+    <animateTransform attributeName="transform" type="rotate" from="0 150 150" to="360 150 150" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- core -->
+  <circle cx="150" cy="150" r="40" fill="url(#core)">
+    <animate attributeName="r" values="36;44;36" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="150" cy="150" r="16" fill="#0d1117" stroke="#c4b5fd" stroke-width="2"/>
+  <text x="150" y="155" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12" font-weight="700" fill="#c4b5fd">AI</text>
+</svg>

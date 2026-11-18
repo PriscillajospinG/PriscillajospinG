@@ -1,13 +1,16 @@
 <div align="center">
 
-
-“But when that which is complete and perfect comes, that which is incomplete and partial will pass away.”
-
-— 1 Corinthians 13:10
+<img width="100%" src="assets/header.svg" alt="Priscilla Jospin G — AI Engineer • ML Researcher • Full Stack Developer"/>
 
 <br>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0d1117,60:1a0533,100:0d1117&text=Priscilla%20Jospin%20G&fontSize=48&fontAlignY=42&fontColor=c9d1d9&desc=AI%20Engineer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=64&descSize=17&stroke=7C3AED&strokeWidth=2"/>
+
+<sub><i>“But when that which is complete and perfect comes, that which is incomplete and partial will pass away.”</i></sub><br>
+<sub><b>— 1 Corinthians 13:10</b></sub>
+
+<br><br>
+
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=20&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&height=48&lines=Building+AI+systems+that+matter.;Research+→+Deployment.+Ideas+→+Products.;LLMs+%7C+Computer+Vision+%7C+Agentic+AI.;Enterprise+AI+%7C+Research+%7C+Innovation." alt="typing"/>
+
 <br>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=PriscillajospinG&color=7C3AED&style=flat-square&label=profile+views)](https://github.com/PriscillajospinG) &nbsp;
@@ -16,17 +19,13 @@
 
 </div>
 
-<br>
+<img width="100%" src="assets/divider.svg" alt=""/>
 
----
+<img width="100%" src="assets/section-about.svg" alt="About"/>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-7405-4053-8a52-90ccd7f878d2.gif" width="120">
-</div>
-
-### About
-
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<table>
+<tr>
+<td width="62%" valign="middle">
 
 * 🎓 B.Tech AI & Data Science — Karunya Institute of Science and Technology
 * 💼 MAWM Trainee @ NCS Partners, Coimbatore
@@ -34,115 +33,125 @@
 * 🚀 Passionate about transforming research ideas into deployable AI products
 * 🌱 Currently exploring Enterprise AI Systems and AI for Healthcare
 
-<br clear="right"/>
+</td>
+<td width="38%" align="center" valign="middle">
+<img width="240" src="assets/orb.svg" alt=""/>
+</td>
+</tr>
+</table>
 
-<br>
+<img width="100%" src="assets/section-experience.svg" alt="Experience"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<table>
+<tr>
+<td width="200" align="center" valign="top">
 
-### Experience
+**`2026, May – Present`**
 
-**`2026, May – Present`** &nbsp; AI Engineer Intern · **Rapha MedTech**
+</td>
+<td valign="top">
+
+AI Engineer Intern · **Rapha MedTech**
 
 * Building AI-powered healthcare applications
 
-<br>
+</td>
+</tr>
+</table>
 
----
+<img width="100%" src="assets/section-projects.svg" alt="Projects"/>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🔐 [PrivAI](https://github.com/PriscillajospinG)
+<sub><b>Enterprise Private LLM Platform</b></sub>
+
+Enterprise-grade platform for deploying LLMs securely on-premise with complete privacy and RAG-powered document intelligence.
+
+`LLMs` · `RAG` · `LangChain` · `FastAPI` · `Vector DB` · `Docker`
+
+</td>
+<td width="33%" valign="top">
+
+### 🛡️ [Transformer WAF](https://github.com/PriscillajospinG)
+<sub><b>Web Application Firewall</b></sub>
+
+Transformer-powered Web Application Firewall for real-time attack detection and intelligent threat classification.
+
+`Transformers` · `Deep Learning` · `Python` · `Cybersecurity`
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 [AI Research Agent Ecosystem](https://github.com/PriscillajospinG)
+
+Multi-agent platform automating literature surveys, paper drafting, citation generation, and academic formatting.
+
+`CrewAI` · `LangChain` · `FastAPI` · `DeepSeek`
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="assets/section-skills.svg" alt="Skills"/>
 
 <div align="center">
-<img width="220" src="https://user-images.githubusercontent.com/74038190/216656963-a1a81fc1-3dd3-4caf-b8f3-afa30d05cb50.gif">
-</div>
-
-### Projects
-
-> **[PrivAI](https://github.com/PriscillajospinG) — Enterprise Private LLM Platform**
-> Enterprise-grade platform for deploying LLMs securely on-premise with complete privacy and RAG-powered document intelligence.
-> `LLMs` · `RAG` · `LangChain` · `FastAPI` · `Vector DB` · `Docker`
-
 <br>
-
-> **[Transformer WAF](https://github.com/PriscillajospinG) — Web Application Firewall**
-> Transformer-powered Web Application Firewall for real-time attack detection and intelligent threat classification.
-> `Transformers` · `Deep Learning` · `Python` · `Cybersecurity`
-
-<br>
-
-> **[AI Research Agent Ecosystem](https://github.com/PriscillajospinG)**
-> Multi-agent platform automating literature surveys, paper drafting, citation generation, and academic formatting.
-> `CrewAI` · `LangChain` · `FastAPI` · `DeepSeek`
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-### Skills
-
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,django,nodejs,react,nextjs,typescript,javascript,mongodb,postgres,docker,git,linux&theme=dark&perline=9"/>
-
+<br><br>
 </div>
 
-<br>
-
----
-
-### GitHub Analytics
+<img width="100%" src="assets/section-analytics.svg" alt="GitHub Analytics"/>
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=PriscillajospinG&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&include_all_commits=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriscillajospinG&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&langs_count=6"/>
 
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=PriscillajospinG&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=c9d1d9&dates=6e768f&sideNums=c9d1d9&currStreakNum=c9d1d9"/>
 
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PriscillajospinG&theme=tokyonight&bg_color=0d1117&color=7C3AED&line=7C3AED&point=c9d1d9&area=true&area_color=7C3AED&hide_border=true"/>
-
-</div>
-
-<div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=PriscillajospinG&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img width="100%" src="assets/section-achievements.svg" alt="Achievements"/>
 
-### Achievements
+<table>
+<tr>
+<td width="50%" align="center">
 
-- 🥇 &nbsp;**Special Mention Award** — Cyberthon 2025
-- ⚔️ &nbsp;**Participant** — Smart India Hackathon
+🥇<br>
+**Special Mention Award**<br>
+<sub>Cyberthon 2025</sub>
 
+</td>
+<td width="50%" align="center">
+
+⚔️<br>
+**Participant**<br>
+<sub>Smart India Hackathon</sub>
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="assets/section-contact.svg" alt="Contact"/>
+
+<div align="center">
 <br>
-
----
-
-<div align="center">
-<img width="180" src="https://user-images.githubusercontent.com/74038190/216655846-270b47f6-5d5c-4b7e-8d32-6d57f7b9c7a4.gif">
-</div>
-
-### Contact
-
-<div align="center">
 
 [LinkedIn](https://www.linkedin.com/in/priscilla-jospin-g-a52799295/) &nbsp;·&nbsp;
 [Portfolio](https://priscillaportfolio.vercel.app/) &nbsp;·&nbsp;
 [priscillajospin@gmail.com](mailto:priscillajospin@gmail.com)
 
+<br>
 </div>
 
-<br>
-
----
+<img width="100%" src="assets/divider.svg" alt=""/>
 
 <div align="center">
 
@@ -158,6 +167,6 @@
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:7C3AED,100:0d1117&section=footer"/>
+<img width="100%" src="assets/footer.svg" alt=""/>
 
 </div>
