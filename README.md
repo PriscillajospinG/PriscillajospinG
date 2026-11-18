@@ -1,3 +1,8 @@
+<p align="center">
+  <i>“But when that which is complete and perfect comes, that which is incomplete and partial will pass away.”</i><br>
+  <sub>1 Corinthians 13:10</sub>
+</p>
+
 <a href="https://priscillaportfolio.vercel.app/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
@@ -115,9 +120,4 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PriscillajospinG/PriscillajospinG/output/github-contribution-grid-snake-dark.svg">
     <img width="100%" alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/PriscillajospinG/PriscillajospinG/output/github-contribution-grid-snake.svg">
   </picture>
-</p>
-
-<p align="center">
-  <i>“But when that which is complete and perfect comes, that which is incomplete and partial will pass away.”</i><br>
-  <sub>1 Corinthians 13:10</sub>
 </p>
