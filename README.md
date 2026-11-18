@@ -33,7 +33,7 @@
 
 | Release | Period | Role | Notes |
 | :-- | :-- | :-- | :-- |
-| **v2** · current | Aug 2026 → present | MAWM Trainee · **NCS Partners**, Coimbatore | — |
+| **v2** | Aug 2026 → present | MAWM Trainee · **NCS Partners**, Coimbatore | Current role |
 | **v1** | May 2026 → Jul 2026 | AI Engineer Intern · **Rapha MedTech** | Built AI-powered healthcare applications |
 
 <br>
