@@ -32,8 +32,7 @@
 <a href="https://github.com/PriscillajospinG/PrivAI-Secure-Enterprise-AI-Assistant"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-privai-dark.svg"><img width="100%" alt="PrivAI — Enterprise Private LLM Platform. Enterprise-grade platform for deploying LLMs securely on-premise with complete privacy and RAG-powered document intelligence." src="assets/project-privai-light.svg"></picture></a>
 
 <p>
-  <a href="https://github.com/PriscillajospinG/transformer-waf-paper"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-waf-dark.svg"><img width="49%" alt="Transformer WAF — Web Application Firewall. Transformer-powered Web Application Firewall for real-time attack detection and intelligent threat classification." src="assets/project-waf-light.svg"></picture></a>
-  <a href="https://github.com/PriscillajospinG/frontend-research-paper-agent"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-agent-dark.svg"><img width="49%" alt="AI Research Agent Ecosystem — Multi-agent platform automating literature surveys, paper drafting, citation generation, and academic formatting." src="assets/project-agent-light.svg"></picture></a>
+  <a href="https://github.com/PriscillajospinG/transformer-waf-paper"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-waf-dark.svg"><img width="50%" alt="Transformer WAF — Web Application Firewall. Transformer-powered Web Application Firewall for real-time attack detection and intelligent threat classification." src="assets/project-waf-light.svg"></picture></a><a href="https://github.com/PriscillajospinG/frontend-research-paper-agent"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-agent-dark.svg"><img width="50%" alt="AI Research Agent Ecosystem — Multi-agent platform automating literature surveys, paper drafting, citation generation, and academic formatting." src="assets/project-agent-light.svg"></picture></a>
 </p>
 
 <br>
@@ -55,9 +54,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-connect-dark.svg"><img width="100%" alt="Let's Connect" src="assets/h-connect-light.svg"></picture>
 
 <p>
-  <a href="https://www.linkedin.com/in/priscilla-jospin-g-a52799295/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/connect-linkedin-dark.svg"><img width="32%" alt="LinkedIn — Priscilla Jospin G" src="assets/connect-linkedin-light.svg"></picture></a>
-  <a href="https://priscillaportfolio.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/connect-portfolio-dark.svg"><img width="32%" alt="Portfolio — priscillaportfolio.vercel.app" src="assets/connect-portfolio-light.svg"></picture></a>
-  <a href="mailto:priscillajospin@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/connect-email-dark.svg"><img width="32%" alt="Email — priscillajospin@gmail.com" src="assets/connect-email-light.svg"></picture></a>
+  <a href="https://www.linkedin.com/in/priscilla-jospin-g-a52799295/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/connect-linkedin-dark.svg"><img width="33.33%" alt="LinkedIn — Priscilla Jospin G" src="assets/connect-linkedin-light.svg"></picture></a><a href="https://priscillaportfolio.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/connect-portfolio-dark.svg"><img width="33.33%" alt="Portfolio — priscillaportfolio.vercel.app" src="assets/connect-portfolio-light.svg"></picture></a><a href="mailto:priscillajospin@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/connect-email-dark.svg"><img width="33.33%" alt="Email — priscillajospin@gmail.com" src="assets/connect-email-light.svg"></picture></a>
 </p>
 
 <br>
