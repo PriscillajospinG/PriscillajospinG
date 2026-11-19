@@ -3,12 +3,9 @@
   <sub>1 Corinthians 13:10</sub>
 </p>
 
-<a href="https://priscillaportfolio.vercel.app/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-    <img width="100%" alt="Priscilla Jospin G · AI Engineer · ML Researcher · Full Stack Developer · Research → Deployment. Ideas → Products." src="assets/hero-light.svg">
-  </picture>
-</a>
+<br>
+
+<a href="https://priscillaportfolio.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img width="100%" alt="Priscilla Jospin G — AI Engineer · ML Researcher · Full Stack Developer. Research → Deployment. Ideas → Products. Open to opportunities. Currently MAWM Trainee at NCS Partners, Coimbatore (since Aug 2026). B.Tech AI &amp; Data Science, Karunya Institute of Science and Technology. Interests: LLMs, Agentic AI, Computer Vision, Deep Learning. Exploring Enterprise AI Systems and AI for Healthcare. Driven by transforming research ideas into deployable AI products." src="assets/hero-light.svg"></picture></a>
 
 <p align="center">
   <a href="https://github.com/PriscillajospinG"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=PriscillajospinG&color=7C3AED&style=flat-square&label=profile+views"></a>
@@ -18,99 +15,49 @@
 
 <br>
 
-## `01` About
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-journey-dark.svg"><img width="100%" alt="Journey" src="assets/h-journey-light.svg"></picture>
 
-| Role | AI Engineer · ML Researcher · Full Stack Developer |
-| :-- | :-- |
-| **Education** | B.Tech AI & Data Science — Karunya Institute of Science and Technology |
-| **Currently** | MAWM Trainee @ NCS Partners, Coimbatore |
-| **Interests** | LLMs · Agentic AI · Computer Vision · Deep Learning |
-| **Driven by** | Transforming research ideas into deployable AI products |
-| **Exploring** | Enterprise AI Systems · AI for Healthcare |
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/experience-dark.svg"><img width="100%" alt="Experience: AI Engineer Intern at Rapha MedTech, May 2026 – Jul 2026, built AI-powered healthcare applications. MAWM Trainee at NCS Partners, Coimbatore, Aug 2026 – present." src="assets/experience-light.svg"></picture>
 
 <br>
 
-## `02` Experience
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-toolkit-dark.svg"><img width="100%" alt="Toolkit" src="assets/h-toolkit-light.svg"></picture>
 
-| Period | Role | Highlights |
-| :-- | :-- | :-- |
-| **Aug 2026 → Present** | MAWM Trainee · **NCS Partners**, Coimbatore | Current role |
-| **May 2026 → Jul 2026** | AI Engineer Intern · **Rapha MedTech** | Built AI-powered healthcare applications |
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img width="100%" alt="Tech stack — LLMs &amp; agents: LangChain, CrewAI, RAG, Vector DB, DeepSeek. Languages: Python, TypeScript, JavaScript. Deep learning &amp; vision: PyTorch, TensorFlow, scikit-learn, OpenCV. Backend: FastAPI, Django, Node.js. Frontend: React, Next.js. Data: MongoDB, PostgreSQL. Infra: Docker, Git, Linux." src="assets/stack-light.svg"></picture>
 
 <br>
 
-## `03` Tech Stack
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-work-dark.svg"><img width="100%" alt="Selected Work" src="assets/h-work-light.svg"></picture>
 
-| Area | Tools |
-| :-- | :-- |
-| **Language** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,typescript,javascript&theme=dark"><img height="40" alt="Python, TypeScript, JavaScript" src="https://skillicons.dev/icons?i=python,typescript,javascript&theme=light"></picture> |
-| **Deep learning & vision** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark"><img height="40" alt="PyTorch, TensorFlow, scikit-learn, OpenCV" src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=light"></picture> |
-| **LLMs & agents** | `LangChain` `CrewAI` `RAG` `Vector DB` `DeepSeek` |
-| **Backend** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi,django,nodejs&theme=dark"><img height="40" alt="FastAPI, Django, Node.js" src="https://skillicons.dev/icons?i=fastapi,django,nodejs&theme=light"></picture> |
-| **Frontend** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs&theme=dark"><img height="40" alt="React, Next.js" src="https://skillicons.dev/icons?i=react,nextjs&theme=light"></picture> |
-| **Data** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark"><img height="40" alt="MongoDB, PostgreSQL" src="https://skillicons.dev/icons?i=mongodb,postgres&theme=light"></picture> |
-| **Infra** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,git,linux&theme=dark"><img height="40" alt="Docker, Git, Linux" src="https://skillicons.dev/icons?i=docker,git,linux&theme=light"></picture> |
-
-<br>
-
-## `04` Projects
-
-<a href="https://github.com/PriscillajospinG/PrivAI-Secure-Enterprise-AI-Assistant">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/project-privai-dark.svg">
-    <img width="100%" alt="PrivAI — Enterprise Private LLM Platform. Enterprise-grade platform for deploying LLMs securely on-premise with complete privacy and RAG-powered document intelligence. LLMs, RAG, LangChain, FastAPI, Vector DB, Docker." src="assets/project-privai-light.svg">
-  </picture>
-</a>
-
-<a href="https://github.com/PriscillajospinG/transformer-waf-paper">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/project-transformer-waf-dark.svg">
-    <img width="100%" alt="Transformer WAF — Web Application Firewall. Transformer-powered Web Application Firewall for real-time attack detection and intelligent threat classification. Transformers, Deep Learning, Python, Cybersecurity." src="assets/project-transformer-waf-light.svg">
-  </picture>
-</a>
-
-<a href="https://github.com/PriscillajospinG/frontend-research-paper-agent">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/project-research-agent-dark.svg">
-    <img width="100%" alt="AI Research Agent Ecosystem — Multi-agent platform automating literature surveys, paper drafting, citation generation, and academic formatting. CrewAI, LangChain, FastAPI, DeepSeek." src="assets/project-research-agent-light.svg">
-  </picture>
-</a>
-
-<br><br>
-
-## `05` Achievements & Activity
-
-| Event | Recognition |
-| :-- | :-- |
-| **Cyberthon 2025** | 🥇 Special Mention Award |
-| **Smart India Hackathon** | Participant |
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PriscillajospinG&show_icons=true&hide_border=true&count_private=true&bg_color=161b22&title_color=a78bfa&icon_color=8b5cf6&text_color=e6edf3">
-    <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=PriscillajospinG&show_icons=true&hide_border=true&count_private=true&bg_color=f6f8fa&title_color=6d28d9&icon_color=7c3aed&text_color=1f2328">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PriscillajospinG&layout=compact&hide_border=true&langs_count=6&bg_color=161b22&title_color=a78bfa&text_color=e6edf3">
-    <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriscillajospinG&layout=compact&hide_border=true&langs_count=6&bg_color=f6f8fa&title_color=6d28d9&text_color=1f2328">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PriscillajospinG&hide_border=true&background=161b22&ring=8b5cf6&fire=8b5cf6&currStreakLabel=a78bfa&sideLabels=e6edf3&dates=8b949e&sideNums=e6edf3&currStreakNum=e6edf3&stroke=30363d">
-    <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=PriscillajospinG&hide_border=true&background=f6f8fa&ring=7c3aed&fire=7c3aed&currStreakLabel=6d28d9&sideLabels=1f2328&dates=59636e&sideNums=1f2328&currStreakNum=1f2328&stroke=d0d7de">
-  </picture>
-</p>
-
-<br>
-
-## `06` Connect
+<a href="https://github.com/PriscillajospinG/PrivAI-Secure-Enterprise-AI-Assistant"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-privai-dark.svg"><img width="100%" alt="PrivAI — Enterprise Private LLM Platform. Enterprise-grade platform for deploying LLMs securely on-premise with complete privacy and RAG-powered document intelligence." src="assets/project-privai-light.svg"></picture></a>
 
 <p>
-  <a href="https://www.linkedin.com/in/priscilla-jospin-g-a52799295/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Priscilla%20Jospin%20G-7C3AED?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://priscillaportfolio.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-priscillaportfolio.vercel.app-7C3AED?style=flat-square&logo=vercel&logoColor=white"></a>
-  <a href="mailto:priscillajospin@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-priscillajospin%40gmail.com-7C3AED?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/PriscillajospinG/transformer-waf-paper"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-waf-dark.svg"><img width="49%" alt="Transformer WAF — Web Application Firewall. Transformer-powered Web Application Firewall for real-time attack detection and intelligent threat classification." src="assets/project-waf-light.svg"></picture></a>
+  <a href="https://github.com/PriscillajospinG/frontend-research-paper-agent"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-agent-dark.svg"><img width="49%" alt="AI Research Agent Ecosystem — Multi-agent platform automating literature surveys, paper drafting, citation generation, and academic formatting." src="assets/project-agent-light.svg"></picture></a>
+</p>
+
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-recognition-dark.svg"><img width="100%" alt="Recognition" src="assets/h-recognition-light.svg"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/achievements-dark.svg"><img width="100%" alt="Special Mention Award — Cyberthon 2025. Participant — Smart India Hackathon." src="assets/achievements-light.svg"></picture>
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PriscillajospinG&show_icons=true&hide_border=true&border_radius=20&count_private=true&bg_color=161b22&title_color=a78bfa&icon_color=8b5cf6&text_color=e6edf3"><img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=PriscillajospinG&show_icons=true&hide_border=true&border_radius=20&count_private=true&bg_color=f6f8fa&title_color=6d28d9&icon_color=7c3aed&text_color=1f2328"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PriscillajospinG&layout=compact&hide_border=true&border_radius=20&langs_count=6&bg_color=161b22&title_color=a78bfa&text_color=e6edf3"><img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriscillajospinG&layout=compact&hide_border=true&border_radius=20&langs_count=6&bg_color=f6f8fa&title_color=6d28d9&text_color=1f2328"></picture>
+</p>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PriscillajospinG&hide_border=true&border_radius=20&background=161b22&ring=8b5cf6&fire=8b5cf6&currStreakLabel=a78bfa&sideLabels=e6edf3&dates=8b949e&sideNums=e6edf3&currStreakNum=e6edf3&stroke=30363d"><img alt="Contribution streak" src="https://streak-stats.demolab.com?user=PriscillajospinG&hide_border=true&border_radius=20&background=f6f8fa&ring=7c3aed&fire=7c3aed&currStreakLabel=6d28d9&sideLabels=1f2328&dates=59636e&sideNums=1f2328&currStreakNum=1f2328&stroke=d0d7de"></picture>
+</p>
+
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-connect-dark.svg"><img width="100%" alt="Let's Connect" src="assets/h-connect-light.svg"></picture>
+
+<p>
+  <a href="https://www.linkedin.com/in/priscilla-jospin-g-a52799295/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/connect-linkedin-dark.svg"><img width="32%" alt="LinkedIn — Priscilla Jospin G" src="assets/connect-linkedin-light.svg"></picture></a>
+  <a href="https://priscillaportfolio.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/connect-portfolio-dark.svg"><img width="32%" alt="Portfolio — priscillaportfolio.vercel.app" src="assets/connect-portfolio-light.svg"></picture></a>
+  <a href="mailto:priscillajospin@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/connect-email-dark.svg"><img width="32%" alt="Email — priscillajospin@gmail.com" src="assets/connect-email-light.svg"></picture></a>
 </p>
 
 <br>
